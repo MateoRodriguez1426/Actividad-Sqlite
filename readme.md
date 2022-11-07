@@ -57,7 +57,10 @@
 ![Update](Imagenes/Aspose.Words.f9333c64-612e-45e6-a455-d9051c5a5f64.007.png)
 
 
+### estructura de la base de datos .schema
+>El esquema de una base de datos (en inglés, database schema) describe la estructura de una base de datos, en un lenguaje formal soportado por un sistema de gestión de base de datos (DBMS). En una base de datos relacional, el esquema define sus tablas, sus campos en cada tabla y las relaciones entre cada campo y cada tabla.
 
+El esquema es generalmente almacenado en un diccionario de datos. Aunque generalmente el esquema es definido en un lenguaje de base de datos, el término se usa a menudo para referirse a una representación gráfica de la estructura de base de datos.
 
 ### date and time functions
 > Las funciones date sirven para solicitarle al sistema la fecha u hora, asi mismo dependiendo de la funcion empleada esta puede generar diversos formatos y modelos estaticos o dinamicos
@@ -136,9 +139,11 @@ En este caso el comando not null es utilizado para indicar que ese campo **NO** 
 ![drop, delete ](Imagenes/Aspose.Words.f9333c64-612e-45e6-a455-d9051c5a5f64.020.png)
 
 
+### Check Constraint
+>Sirve para tener un patron que de cumplirse permite la admision de datos en un registro, si no se cumple no admite el registro
 ![](Imagenes/Aspose.Words.f9333c64-612e-45e6-a455-d9051c5a5f64.021.png)
 
-![drop, delete ](Imagenes/Aspose.Words.f9333c64-612e-45e6-a455-d9051c5a5f64.022.png)
+![ ](Imagenes/Aspose.Words.f9333c64-612e-45e6-a455-d9051c5a5f64.022.png)
 
 ![](Imagenes/Aspose.Words.f9333c64-612e-45e6-a455-d9051c5a5f64.023.png)
 
